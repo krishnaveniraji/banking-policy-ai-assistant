@@ -21,10 +21,10 @@ questions about banking policies using AI.
 ## 📸 Screenshots
 
 ### App Interface
-![App Screenshot](screenshots/screenshot1.png)
+![App Screenshot](screenshots/Screenshot1.png)
 
 ### AI Answer with Sources
-![Answer Screenshot](screenshots/screenshot2.png)
+![Answer Screenshot](screenshots/Screenshot2.png)
 
 ## 🏗️ How It Works (RAG Architecture)
 ```
