@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# API Keys - NEVER upload!
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PDF documents
+*.pdf
+
+# ChromaDB
+chroma_db/
+.chroma/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test_gemini.py
