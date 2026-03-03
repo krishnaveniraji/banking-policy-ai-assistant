@@ -197,3 +197,13 @@ MIT License - feel free to learn from this!
 ---
 ⭐ If this helped you, please give it a star!
 ```
+## 🔄 Enterprise Azure Version
+
+This project also has an **enterprise Azure edition** built with Microsoft's managed AI services:
+
+- **Azure OpenAI (GPT-4)** instead of Google Gemini
+- **Azure AI Search** with hybrid search instead of ChromaDB
+- **Microsoft Copilot Studio** instead of Streamlit
+- No-code deployment with enterprise governance
+
+👉 **[View the Azure Enterprise Version](https://github.com/krishnaveniraji/banking-policy-rag-azure)**
