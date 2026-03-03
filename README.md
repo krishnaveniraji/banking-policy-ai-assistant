@@ -166,9 +166,8 @@ Stores embeddings for fast **semantic search**.
 ## 🗺️ Project Roadmap
 
 - [x] Project 1: Banking Policy RAG Assistant ✅
-- [ ] Project 2: Invoice Processing AI Agent
-- [ ] Project 3: Treasury Multi-Agent System
-- [ ] Project 4: SharePoint AI Search
+- [x] Project 2: Invoice Processing AI Agent ✅
+- [x] Project 3: SharePoint AI Search ✅
 - [ ] Certification: Microsoft AI-102 (March 2026)
 - [ ] Certification: Microsoft AB-100 Agentic AI (July 2026)
 
